@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle thinkphp5-snippets",
+        "command": "thinkphp5-snippets:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "thinkphp5-snippets",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "thinkphp5-snippets:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

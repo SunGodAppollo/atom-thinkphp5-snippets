@@ -1,0 +1,18 @@
+{
+  "name": "thinkphp5-snippets",
+  "main": "./lib/thinkphp5-snippets",
+  "version": "0.0.1",
+  "description": "PHP Framework ThinkPHP5 Snippets for Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "thinkphp5-snippets:toggle"
+  },
+  "repository": "https://github.com/chunice/atom-thinkphp5-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

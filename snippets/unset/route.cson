@@ -1,0 +1,5 @@
+'.source.php':
+# Route
+  '注册路由':
+    'prefix': 'Rr'
+    'body': 'Route::init(${1:\$name})$0'

@@ -1,10 +1,9 @@
 {
   "name": "thinkphp5-snippets",
   "main": "./lib/thinkphp5-snippets",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "PHP Framework ThinkPHP5 Snippets for Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "thinkphp5-snippets:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

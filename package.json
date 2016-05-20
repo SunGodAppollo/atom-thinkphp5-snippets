@@ -1,7 +1,7 @@
 {
   "name": "thinkphp5-snippets",
   "main": "./lib/thinkphp5-snippets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PHP Framework ThinkPHP5 Snippets for Atom",
   "keywords": [],
   "activationCommands": {

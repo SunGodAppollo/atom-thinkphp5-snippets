@@ -5,7 +5,7 @@
         'body': """
         namespace app\\\\${1:index}\\\\controller;
 
-        class ${2:New}${3: extends ${4:\\\\think\\\\Controller}}
+        class ${2:New} ${3:extends ${4:\\\\think\\\\Controller}}
         {
             public function ${5:index}()
             {

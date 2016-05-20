@@ -3,7 +3,6 @@
   '初始化缓存':
     'prefix': 'Cac'
     'body': 'Cache::connect(${1:\$options})$0'
-# FIXME: 设置缓存 TAB 有问题
   '设置缓存':
     'prefix': 'Cas'
     'body': 'Cache::set(${1:\$name}, ${2:\$value}${3:, ${4:\$time}})$0'

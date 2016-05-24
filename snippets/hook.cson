@@ -1,0 +1,11 @@
+'.source.php':
+# Loader
+  '添加标签位':
+    'prefix': 'Hl'
+    'body': 'Hook::listen(${1:\$tag}${2:, ${3:\$params}})$0'
+  '行为绑定':
+    'prefix': 'Ha'
+    'body': 'Hook::add(${1:\$tag}, ${2:\$behavior})$0'
+  '直接执行行为':
+    'prefix': 'He'
+    'body': 'Hook::exec(${1:\$class}, ${2:\$tag}, ${3:\$params})$0'

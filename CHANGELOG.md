@@ -1,3 +1,2 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 1.1.0 - 加入 Hook 提醒（ThinkPHP5 行为）
+## 1.0.2 - 首次上线
